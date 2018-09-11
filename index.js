@@ -5,3 +5,6 @@ function happyHolidays() {
 function happyHolidaysTo() {
   return "Happy holidays, you!"
 }
+function happyHolidayTO() {
+  return ""
+}
